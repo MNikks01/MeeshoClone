@@ -19,15 +19,15 @@ function Homepage() {
             <div className='flex flex-row w-[1150px] m-auto h-[550px] bg-red-300 relative'>
                 <img
                     className='absolute bottom-10 left-5 w-[400px] h-[430px]'
-                    src="/public/Resources/womenstore.webp"
+                    src="/Resources/womenstore.webp"
                     alt="" />
                 <img
                     className='absolute bottom-10 left-[440px]  rounded-md w-[312px] h-[291px]'
-                    src="/public/Resources/menstore.webp"
+                    src="/Resources/menstore.webp"
                     alt="" />
                 <img
                     className='absolute bottom-10 left-[770px] rounded-md w-[312px] h-[291px]'
-                    src="/public/Resources/kidstore.webp"
+                    src="/Resources/kidstore.webp"
                     alt="" />
             </div>
 
